@@ -1,0 +1,21 @@
+{
+  "name": "youbuild-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Frontend layout for YouBuild project, based on Twitter Bootstrap, LESS and jQuery",
+  "author": "Stan Devproject",
+  "engines": {
+    "node": "^5.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-file-include": "^0.13.7",
+    "gulp-less": "^3.0.5",
+    "gulp-path": "^2.0.2",
+    "gulp-rimraf": "^0.2.0",
+    "less-plugin-autoprefix": "^1.5.1"
+  }
+}
